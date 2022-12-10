@@ -1,2 +1,4 @@
 .env/
 ssh_key/
+.ipynb_checkpoints/
+__pycache__/
